@@ -1,3 +1,7 @@
+# Folked by Boilerplate
+
+Ubuntu teracy-dev with Docker, Angular2 Dev environment.
+
 # angular-boilerplate [![Build Status](https://travis-ci.org/teracyhq/angular-boilerplate.svg?branch=develop)](https://travis-ci.org/teracyhq/angular-boilerplate)
 
 This project was generated with

@@ -44,7 +44,7 @@ Thumbs.db
 !node_modules/.gitkeep
 
 # angular-boilerplate
-.angular-cli.json
-package.json
-docker-compose.yml
-docker-compose.prod.yml
+#.angular-cli.json
+#package.json
+#docker-compose.yml
+#docker-compose.prod.yml
